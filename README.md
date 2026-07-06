@@ -115,6 +115,6 @@ Allows users to filter the dashboard by:
 
 Show what the dashboard looks like.
 
-![Bike Sales Dashboard](Dashboard.png)
+![Bike Sales Dashboard](https://github.com/safoora-kounain-22/Bike-Sales-Excel-Dashboard/blob/main/Bike%20Sales%20snapshot-1.png)
 
-Aspiring Data Analyst skilled in Excel, SQL, Python, Power BI, and data visualization. Passionate about turning raw data into meaningful business insights through interactive dashboards and analytical solutions.
+![Bike Sales Dashboard]()
