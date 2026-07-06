@@ -117,4 +117,4 @@ Show what the dashboard looks like.
 
 ![Bike Sales Dashboard](https://github.com/safoora-kounain-22/Bike-Sales-Excel-Dashboard/blob/main/Bike%20Sales%20snapshot-1.png)
 
-![Bike Sales Dashboard]()
+![Bike Sales Dashboard](https://github.com/safoora-kounain-22/Bike-Sales-Excel-Dashboard/blob/main/Bike%20Sales%20snapshot-2.png)
